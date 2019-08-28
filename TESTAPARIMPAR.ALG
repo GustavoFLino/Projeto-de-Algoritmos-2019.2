@@ -1,4 +1,6 @@
 Algoritmo "testaPar"
+// Disciplina  :  2019.2 - Projeto de Algoritmo 
+// Professor   : Diego Braga Galiza Viana 
 
 Var
    // Seção de Declarações das variáveis
